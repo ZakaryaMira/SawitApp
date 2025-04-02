@@ -1,5 +1,5 @@
 <template>
-  <nav class="cairo-font bg-[#98C1D9] py-12 px-25 flex items-center justify-start">
+  <nav class="cairo-font bg-[#98C1D9] py-12 px-25 flex items-center justify-start cairo-font">
     <div class="text-white text-4xl font-bold ml-20">صوت</div>
     <ul class="flex space-x-40 text-white text-lg pl-20">
       <li><RouterLink to="/Login" class="hover:underline">تسجيل الدخول</RouterLink></li>
